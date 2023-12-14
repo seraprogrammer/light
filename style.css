@@ -1,0 +1,23 @@
+.main{
+    margin: 50px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bulp{
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    border: 1px solid gray;
+    border-radius: 100%;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: greenyellow;
+    position: absolute;
+    border: none;
+    top: 180px;
+}
